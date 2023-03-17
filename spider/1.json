@@ -1,0 +1,440 @@
+{
+  'offset': 0,
+  'limit': 15,
+  'total': 1108,
+  'objects': [
+    {
+      'id': 988521,
+      '@id': '988521',
+      '@initialImport': '2022-07-13T20:25:42.097843+00:00',
+      '@lastSynced': '2022-11-25T15:32:03.711839+00:00',
+      'attachments': True,
+      'collection': 'Kupferstichkabinett',
+      'collectionKey': 'KKNiederlandischeDruckgraphik',
+      'dateRange': 'Von 01.01.1630 n. Chr. bis 31.12.1630 n. Chr.',
+      'dating': [
+        '1630'
+      ],
+      'dimensionsAndWeight': [
+        'Höhe x Breite: 7,2 x 6,1 cm'
+      ],
+      'exhibit': False,
+      'highlight': False,
+      'identNumber': '204-1896',
+      'involvedParties': [
+        'Rembrandt Harmensz van Rijn (1606 - 1669), Radierer & Inventor'
+      ],
+      'longDescription': 'Das Selbstbildnis mit dem wilden Haarschopf gehört zu einer Reihe von kleinformatigen Affektstudien, die der junge Rembrandt Anfang der 30er Jahre – im Spiegel am eigenen Antlitz beobachtet – radierte. Sie dienten ihm u.a. als Vorbilder für biblische Figuren in seinen Historienbildern. Etwas gewollt erscheint der grimmige, energisch-gefaßte Gesichtsausdruck. Die Stirn, die Rembrandt in dieser Darstellung runzelte, galt seit jeher als äußere Sichtbarmachung innerer Gemütszustände, wie auch der holländische Kunstschriftsteller Karel van Mander notierte: »Auf die Stirn, die bei den Heiden dem Genius geweiht war, sage ich, müssen wir acht geben, da sie einige für die Seelenverräterin halten, für das Gesicht der Gedanken, ja für das Buch des Herzens, um des Menschen Gemüt zu lesen und zu prüfen: denn Falten und Gruben bezeugen, daß in uns ein betrübter und sorgenvoller Geist verborgen ist.«\r\nRembrandt Harmensz. van Rijn, der bedeutendste holländische Maler im 17. Jahrhundert, blieb auch als Schöpfer von Radierungen und Kaltnadelstichen unerreicht. Stilistisch, ikonographisch wie kompositionell behaupten sich seine Radierungen als selbständige Kunstwerke neben der Malerei. Das umfangreiche graphische Werk von etwa 300 Arbeiten wurde bereits zu Lebzeiten geschätzt und beeinflußte ganze Generationen von Radierern.\r\n\r\nText: Holm Bevers in: Das Berliner Kupferstichkabinett. Ein Handbuch zur Sammlung, hg. von Alexander Dückers, 2. Auflage, Berlin 1994, S. 208, Kat. IV.56 (mit weiterer Literatur)',
+      'materialAndTechnique': [
+        'Radierung auf Papier'
+      ],
+      'technicalTerm': 'Druck',
+      'titles': [
+        'Selbstbildnis mit gerunzelter Stirn'
+      ]
+    },
+    {
+      'id': 978262,
+      '@id': '978262',
+      '@initialImport': '2022-07-13T19:57:47.545806+00:00',
+      '@lastSynced': '2023-01-06T11:01:33.89732+00:00',
+      'attachments': True,
+      'collection': 'Kupferstichkabinett',
+      'collectionKey': 'KKNiederlandischeDruckgraphik',
+      'dateRange': 'Von 01.01.1638 n. Chr. bis 31.12.1638 n. Chr.',
+      'dating': [
+        '1638'
+      ],
+      'dimensionsAndWeight': [
+        'Plattenrand: 13,4 x 10,3 cm'
+      ],
+      'exhibit': False,
+      'highlight': False,
+      'identNumber': '24-16',
+      'involvedParties': [
+        'Rembrandt Harmensz van Rijn (1606 - 1669), Stecher*in',
+        'Rembrandt Harmensz van Rijn (1606 - 1669), Dargestellt'
+      ],
+      'materialAndTechnique': [
+        'Radierung auf Papier'
+      ],
+      'technicalTerm': 'Druck',
+      'titles': [
+        'Selbstbildnis in Samthut mit Feder'
+      ]
+    },
+    {
+      'id': 1425245,
+      '@id': '1425245',
+      '@initialImport': '2022-07-14T19:23:46.529794+00:00',
+      '@lastSynced': '2022-11-25T19:20:06.643108+00:00',
+      'attachments': True,
+      'collection': 'Kupferstichkabinett',
+      'collectionKey': 'KKVerlusteNiederlande',
+      'dimensionsAndWeight': [
+        'Blattmaß: 17,8 x 24,3 cm'
+      ],
+      'exhibit': False,
+      'highlight': False,
+      'identNumber': 'KdZ 2700',
+      'involvedParties': [
+        'Rembrandt Harmensz van Rijn (1606 - 1669), Zeichner*in'
+      ],
+      'materialAndTechnique': [
+        'Feder in Braun, laviert'
+      ],
+      'technicalTerm': 'Zeichnung',
+      'titles': [
+        'Christus findet die Jünger schlafend am Ölberg'
+      ]
+    },
+    {
+      'id': 1633181,
+      '@id': '1633181',
+      '@initialImport': '2022-07-15T16:38:44.03194+00:00',
+      '@lastSynced': '2022-11-25T20:43:43.930016+00:00',
+      'attachments': True,
+      'collection': 'Kupferstichkabinett',
+      'collectionKey': 'KKNiederlandischeDruckgraphik',
+      'dateRange': 'Von 01.01.1637 n. Chr. bis 31.12.1658 n. Chr.',
+      'dating': [
+        'um 1647/48'
+      ],
+      'dimensionsAndWeight': [
+        'Plattenrand: 27,8 x 38,8 cm'
+      ],
+      'exhibit': False,
+      'highlight': False,
+      'identNumber': '128-16',
+      'involvedParties': [
+        'Rembrandt Harmensz van Rijn (1606 - 1669), Radierer & Inventor'
+      ],
+      'materialAndTechnique': [
+        'Radierung, Kaltnadel und Grabstichel auf Papier'
+      ],
+      'technicalTerm': 'Druck',
+      'titles': [
+        '„Das Hundertguldenblatt“'
+      ]
+    },
+    {
+      'id': 2308211,
+      '@id': '2308211',
+      '@initialImport': '2022-07-17T17:26:59.301782+00:00',
+      '@lastSynced': '2022-11-25T23:00:26.404907+00:00',
+      'attachments': True,
+      'collection': 'Kupferstichkabinett',
+      'collectionKey': 'KKNiederlandischeDruckgraphik',
+      'dateRange': 'Von 01.01.1635 n. Chr. bis 31.12.1635 n. Chr.',
+      'dating': [
+        '1635'
+      ],
+      'dimensionsAndWeight': [
+        'Blattmaß: 14,4 x 11,8 cm'
+      ],
+      'exhibit': False,
+      'highlight': False,
+      'identNumber': 'B-1896',
+      'involvedParties': [
+        'Rembrandt Harmensz van Rijn (1606 - 1669), Stecher*in'
+      ],
+      'materialAndTechnique': [
+        'Radierung auf Vergé-Papier'
+      ],
+      'technicalTerm': 'Druck',
+      'titles': [
+        'Die wandernden Musikanten'
+      ]
+    },
+    {
+      'id': 1485975,
+      '@id': '1485975',
+      '@initialImport': '2022-07-14T20:32:59.756338+00:00',
+      '@lastSynced': '2022-12-13T11:04:26.260235+00:00',
+      'attachments': True,
+      'collection': 'Kupferstichkabinett',
+      'collectionKey': 'KKVerlusteNiederlande',
+      'dateRange': 'Von 01.01.1658 n. Chr. bis 31.12.1660 n. Chr.',
+      'dating': [
+        'um 1658-60'
+      ],
+      'dimensionsAndWeight': [
+        'Blattmaß: 11,8 x 17,8 cm'
+      ],
+      'exhibit': False,
+      'highlight': False,
+      'identNumber': 'KdZ 3108',
+      'involvedParties': [
+        'Rembrandt Harmensz van Rijn (1606 - 1669), Zeichner*in'
+      ],
+      'materialAndTechnique': [
+        'Feder in Braun, stellenweise mit dem Finger oder einem trockenen Pinsel verwischt'
+      ],
+      'technicalTerm': 'Zeichnung',
+      'titles': [
+        'Studienblatt mit drei Bettlern und einem Kopf'
+      ]
+    },
+    {
+      'id': 1485984,
+      '@id': '1485984',
+      '@initialImport': '2022-07-14T20:33:08.558987+00:00',
+      '@lastSynced': '2022-11-25T19:28:11.840359+00:00',
+      'attachments': True,
+      'collection': 'Kupferstichkabinett',
+      'collectionKey': 'KKVerlusteNiederlande',
+      'dateRange': 'Von 01.01.1638 n. Chr. bis 31.12.1639 n. Chr.',
+      'dating': [
+        'um 1638-39'
+      ],
+      'dimensionsAndWeight': [
+        'Blattmaß: 18,5 x 17,0 cm'
+      ],
+      'exhibit': False,
+      'highlight': False,
+      'identNumber': 'KdZ 3772 verso',
+      'involvedParties': [
+        'Rembrandt Harmensz van Rijn (1606 - 1669), Zeichner*in'
+      ],
+      'materialAndTechnique': [
+        'Feder in Braun'
+      ],
+      'technicalTerm': 'Zeichnung / Rückseite',
+      'titles': [
+        'Bärtiger Mann mit hoher Pelzmütze'
+      ]
+    },
+    {
+      'id': 1486004,
+      '@id': '1486004',
+      '@initialImport': '2022-07-14T20:33:16.931502+00:00',
+      '@lastSynced': '2022-12-13T10:17:20.915945+00:00',
+      'attachments': True,
+      'collection': 'Kupferstichkabinett',
+      'collectionKey': 'KKVerlusteNiederlande',
+      'dateRange': 'Von 01.01.1655 n. Chr. bis 31.12.1658 n. Chr.',
+      'dating': [
+        'um 1655/58'
+      ],
+      'dimensionsAndWeight': [
+        'Blattmaß: 17,9 x 21,1 cm'
+      ],
+      'exhibit': False,
+      'highlight': False,
+      'identNumber': 'KdZ 12013',
+      'involvedParties': [
+        'Rembrandt Harmensz van Rijn (1606 - 1669), Zeichner*in'
+      ],
+      'materialAndTechnique': [
+        'Feder in Braun, stellenweise mit dem Finger oder einem trockenen Pinsel gewischt, weiß gehöht'
+      ],
+      'technicalTerm': 'Zeichnung',
+      'titles': [
+        'Die Kreuzaufrichtung'
+      ]
+    },
+    {
+      'id': 1486011,
+      '@id': '1486011',
+      '@initialImport': '2022-07-14T20:33:29.386913+00:00',
+      '@lastSynced': '2022-12-13T10:17:35.457205+00:00',
+      'attachments': True,
+      'collection': 'Kupferstichkabinett',
+      'collectionKey': 'KKVerlusteNiederlande',
+      'dateRange': 'Von 01.01.1645 n. Chr. bis 31.12.1665 n. Chr.',
+      'dating': [
+        'um 1655'
+      ],
+      'dimensionsAndWeight': [
+        'Blattmaß: 13,3 x 18,0 cm'
+      ],
+      'exhibit': False,
+      'highlight': False,
+      'identNumber': 'KdZ 8516',
+      'involvedParties': [
+        'Rembrandt Harmensz van Rijn (1606 - 1669), Zeichner*in'
+      ],
+      'materialAndTechnique': [
+        'Feder in Braun, braun laviert, Bleiweiß'
+      ],
+      'technicalTerm': 'Zeichnung',
+      'titles': [
+        'Interieur mit geschlachtetem Ochsen'
+      ]
+    },
+    {
+      'id': 1486013,
+      '@id': '1486013',
+      '@initialImport': '2022-07-14T20:33:39.093983+00:00',
+      '@lastSynced': '2022-12-13T11:04:38.786072+00:00',
+      'attachments': True,
+      'collection': 'Kupferstichkabinett',
+      'collectionKey': 'KKVerlusteNiederlande',
+      'dateRange': 'Von 01.01.1650 n. Chr. bis 31.12.1655 n. Chr.',
+      'dating': [
+        'um 1650/55'
+      ],
+      'dimensionsAndWeight': [
+        'Blattmaß: 11,2 x 18,7 cm'
+      ],
+      'exhibit': False,
+      'highlight': False,
+      'identNumber': 'KdZ 2692',
+      'involvedParties': [
+        'Rembrandt Harmensz van Rijn (1606 - 1669), Zeichner*in'
+      ],
+      'materialAndTechnique': [
+        'Feder in Braun, schwach laviert'
+      ],
+      'technicalTerm': 'Zeichnung',
+      'titles': [
+        'Thisbe trauert um Pyramus'
+      ]
+    },
+    {
+      'id': 1486016,
+      '@id': '1486016',
+      '@initialImport': '2022-07-14T20:33:49.454043+00:00',
+      '@lastSynced': '2022-12-13T10:35:34.828421+00:00',
+      'attachments': True,
+      'collection': 'Kupferstichkabinett',
+      'collectionKey': 'KKVerlusteNiederlande',
+      'dateRange': 'Von 01.01.1651 n. Chr. bis 31.12.1652 n. Chr.',
+      'dating': [
+        'um 1651-52'
+      ],
+      'dimensionsAndWeight': [
+        'Blattmaß: 13,1 x 19,6 cm'
+      ],
+      'exhibit': False,
+      'highlight': False,
+      'identNumber': 'KdZ 5266',
+      'involvedParties': [
+        'Rembrandt Harmensz van Rijn (1606 - 1669), Zeichner*in'
+      ],
+      'materialAndTechnique': [
+        'Feder in Braun, von späterer Hand mit Feder und Pinsel in Grau und Hellviolett übergangen'
+      ],
+      'technicalTerm': 'Zeichnung',
+      'titles': [
+        'Flußlandschaft mit Bäumen'
+      ]
+    },
+    {
+      'id': 1486021,
+      '@id': '1486021',
+      '@initialImport': '2022-07-14T20:33:59.179428+00:00',
+      '@lastSynced': '2022-12-13T10:35:46.606955+00:00',
+      'attachments': True,
+      'collection': 'Kupferstichkabinett',
+      'collectionKey': 'KKVerlusteNiederlande',
+      'dateRange': 'Von 01.01.1647 n. Chr. bis 31.12.1648 n. Chr.',
+      'dating': [
+        'um 1647-48'
+      ],
+      'dimensionsAndWeight': [
+        'Blattmaß: 15,4 x 23,3 cm'
+      ],
+      'exhibit': False,
+      'highlight': False,
+      'identNumber': 'KdZ 5261',
+      'involvedParties': [
+        'Rembrandt Harmensz van Rijn (1606 - 1669), Zeichner*in'
+      ],
+      'materialAndTechnique': [
+        'Schwarze Kreide, spätere Einfassungslinie am oberen Rand mit brauner Tinte'
+      ],
+      'technicalTerm': 'Zeichnung',
+      'titles': [
+        'Bauernhaus neben einem hohen Baum und einem Gebüsch'
+      ]
+    },
+    {
+      'id': 1486024,
+      '@id': '1486024',
+      '@initialImport': '2022-07-14T20:34:10.147701+00:00',
+      '@lastSynced': '2022-12-13T10:35:58.597208+00:00',
+      'attachments': True,
+      'collection': 'Kupferstichkabinett',
+      'collectionKey': 'KKVerlusteNiederlande',
+      'dateRange': 'Von 01.01.1647 n. Chr. bis 31.12.1648 n. Chr.',
+      'dating': [
+        'um 1647-48'
+      ],
+      'dimensionsAndWeight': [
+        'Blattmaß: 11,3 x 16,1 cm'
+      ],
+      'exhibit': False,
+      'highlight': False,
+      'identNumber': 'KdZ 5661',
+      'involvedParties': [
+        'Rembrandt Harmensz van Rijn (1606 - 1669), Zeichner*in'
+      ],
+      'materialAndTechnique': [
+        'Schwarze Kreide'
+      ],
+      'technicalTerm': 'Zeichnung',
+      'titles': [
+        'Bauerngehöft am Wasser'
+      ]
+    },
+    {
+      'id': 1486034,
+      '@id': '1486034',
+      '@initialImport': '2022-07-14T20:34:45.060695+00:00',
+      '@lastSynced': '2022-11-25T19:29:43.265698+00:00',
+      'attachments': True,
+      'collection': 'Kupferstichkabinett',
+      'collectionKey': 'KKVerlusteNiederlande',
+      'dateRange': 'Von 01.01.1647 n. Chr. bis 31.12.1648 n. Chr.',
+      'dating': [
+        'um 1647-48'
+      ],
+      'dimensionsAndWeight': [
+        'Blattmaß: 11,8 x 1,0 cm'
+      ],
+      'exhibit': False,
+      'highlight': False,
+      'identNumber': 'KdZ 1148',
+      'involvedParties': [
+        'Rembrandt Harmensz van Rijn (1606 - 1669), Zeichner*in'
+      ],
+      'materialAndTechnique': [
+        'Schwarze Kreide'
+      ],
+      'technicalTerm': 'Zeichnung',
+      'titles': [
+        'Zwei sitzende Männer im Gespräch'
+      ]
+    },
+    {
+      'id': 1486032,
+      '@id': '1486032',
+      '@initialImport': '2022-07-14T20:34:33.709429+00:00',
+      '@lastSynced': '2022-12-13T11:18:54.388087+00:00',
+      'attachments': True,
+      'collection': 'Kupferstichkabinett',
+      'collectionKey': 'KKVerlusteNiederlande',
+      'dateRange': 'Von 01.01.1647 n. Chr. bis 31.12.1648 n. Chr.',
+      'dating': [
+        'um 1647-48'
+      ],
+      'dimensionsAndWeight': [
+        'Blattmaß: 9,8 x 13,9 cm'
+      ],
+      'exhibit': False,
+      'highlight': False,
+      'identNumber': 'KdZ 1106',
+      'involvedParties': [
+        'Rembrandt Harmensz van Rijn (1606 - 1669), Zeichner*in'
+      ],
+      'materialAndTechnique': [
+        'Schwarze Kreide'
+      ],
+      'technicalTerm': 'Zeichnung',
+      'titles': [
+        'Blick in die Oude Schans mit dem "Montelbaanstoren" von der St. Anthoniessluis aus gesehen'
+      ]
+    }
+  ]
+}
